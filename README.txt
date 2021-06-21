@@ -1,8 +1,3 @@
-STUDENT NAME : CHIBUIKE JOSHUA OGBONDA
-STUDENT ID: T987K298
-
-Entire assignment is on the T987k298.py program, run on any computer with python installed
-
 -program reads start state data from the user element by element(only values from 0 - 8 are accepted into the array and repitition of values is obsereved and corrected)
 -program read goal state data from the user similar to start state.
 -program calculate the steps necessary to go from start to goal state using the A*search( where f(n) = g(n) + h(n))
